@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-Puzzle/static/css/main.ddd9ced3.chunk.css",
+    "main.js": "/React-Puzzle/static/js/main.f18b80f9.chunk.js",
+    "main.js.map": "/React-Puzzle/static/js/main.f18b80f9.chunk.js.map",
+    "runtime-main.js": "/React-Puzzle/static/js/runtime-main.5ddc8a1a.js",
+    "runtime-main.js.map": "/React-Puzzle/static/js/runtime-main.5ddc8a1a.js.map",
+    "static/js/2.49b111d9.chunk.js": "/React-Puzzle/static/js/2.49b111d9.chunk.js",
+    "static/js/2.49b111d9.chunk.js.map": "/React-Puzzle/static/js/2.49b111d9.chunk.js.map",
+    "index.html": "/React-Puzzle/index.html",
+    "precache-manifest.ab9c097c5cc52f156bd96ae4ebc83e36.js": "/React-Puzzle/precache-manifest.ab9c097c5cc52f156bd96ae4ebc83e36.js",
+    "service-worker.js": "/React-Puzzle/service-worker.js",
+    "static/css/main.ddd9ced3.chunk.css.map": "/React-Puzzle/static/css/main.ddd9ced3.chunk.css.map",
+    "static/media/Puzzle.jpg": "/React-Puzzle/static/media/Puzzle.40486cf5.jpg",
+    "static/media/aspects.jpg": "/React-Puzzle/static/media/aspects.779a69da.jpg",
+    "static/media/avantages.jpg": "/React-Puzzle/static/media/avantages.b07464bf.jpg",
+    "static/media/gt2100.jpg": "/React-Puzzle/static/media/gt2100.b70f36af.jpg",
+    "static/media/header.jpg": "/React-Puzzle/static/media/header.1b346c09.jpg",
+    "static/media/proc-cerveau.jpg": "/React-Puzzle/static/media/proc-cerveau.c9658d69.jpg",
+    "static/media/technologie.jpg": "/React-Puzzle/static/media/technologie.5ddf6cff.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ddc8a1a.js",
+    "static/js/2.49b111d9.chunk.js",
+    "static/css/main.ddd9ced3.chunk.css",
+    "static/js/main.f18b80f9.chunk.js"
+  ]
+}
